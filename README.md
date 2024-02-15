@@ -1,5 +1,8 @@
 # Data Structures and Algorithms in Python - README
 
+![image](store.jpg)
+
+
 ## Problem Statement
 
 ## Introduction
