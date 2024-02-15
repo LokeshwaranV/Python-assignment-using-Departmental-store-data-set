@@ -32,6 +32,8 @@ Find how many unique items are present in the data?
 Find the total number of transactions?
 Add items, try adding the item “banana” in stores. The cost of this item is $5.
 Remove an item: for example, if the customers at Walmart do not seem to be purchasing “banana,” and the store decides to discontinue this item.
+
+
 Q2. Billing System
 Once a customer has completed shopping, they need to be billed for the total amount of all the items. This can be done automatically by swiping each item’s barcode on a checkout system.
 
@@ -41,6 +43,7 @@ Find the price of salmon from the cost dictionary
 Write a code that helps the administrator find any particular transaction in the sequence
 Find the total cost of the ninth transaction from the array of transactions
 Find the final price of the second transaction after applicable taxes have been implemented
+
 Q3. Inventory Management System
 There is always a flow of items in and out of stores, which need to be tracked so that the store can place an order in case an item is running out of stock.
 
@@ -48,6 +51,8 @@ Task List:
 What is the data structure that can be used to count the frequency of items purchased?
 Create a frequency counter to count the number of items
 A new transaction has just been made. Update the frequency counter to reflect this new transaction
+
+
 Q4. Discount Week for Christmas
 Walmart is running a discount week for Christmas! The sales manager has decided to keep a 20% discount on the top three selling items.
 
